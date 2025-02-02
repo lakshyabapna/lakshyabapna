@@ -18,7 +18,6 @@ I’m a **CS & AI student** at **Newton School of Technology** with a passion fo
 
 ---
 
-### ** Dynamic Visitor Count**
 ![Visitor Count](https://komarev.com/ghpvc/?username=lakshyabapna&color=blue)  
 
 ---
